@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "jsqr": "https://github.com/cozmo/jsQR.git",
-    "prop-types": "^15.5.8",
+    "prop-types": "^15.6.0",
     "webrtc-adapter": "^5.0.6"
   }
 }
